@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1635706278 source:c:\users\garg2\downloads\covid\main.cpp
+	<iostream>
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"vaccine_dose_registration.h"
+
+1635707422 c:\users\garg2\downloads\covid\vaccine_dose_registration.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	"vaccine_inventory.h"
+
+1635708098 c:\users\garg2\downloads\covid\vaccine_inventory.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"searching.h"
+	<conio.h>
+
+1635708366 c:\users\garg2\downloads\covid\searching.h
+	<iostream>
+	<fstream>
+	"rapid_covid_test.h"
+
+1635705606 c:\users\garg2\downloads\covid\rapid_covid_test.h
+	<iostream>
+	"enter_spaces.h"
+
+1635619095 c:\users\garg2\downloads\covid\enter_spaces.h
+	<iostream>
+
+1635879459 source:c:\users\garg2\onedrive\documents\covid\main.cpp
+	<iostream>
+	<iostream>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	"vaccine_dose_registration.h"
+
+1635883491 c:\users\garg2\onedrive\documents\covid\vaccine_dose_registration.h
+	<iostream>
+	<fstream>
+	<string.h>
+	<conio.h>
+	"vaccine_inventory.h"
+
+1635967975 c:\users\garg2\onedrive\documents\covid\vaccine_inventory.h
+	<iostream>
+	<fstream>
+	<iomanip>
+	"searching.h"
+	<conio.h>
+
+1635967974 c:\users\garg2\onedrive\documents\covid\searching.h
+	<iostream>
+	<fstream>
+	"rapid_covid_test.h"
+
+1635962028 c:\users\garg2\onedrive\documents\covid\rapid_covid_test.h
+	<iostream>
+	"enter_spaces.h"
+
+1635619095 c:\users\garg2\onedrive\documents\covid\enter_spaces.h
+	<iostream>
+
